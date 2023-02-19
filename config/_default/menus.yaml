@@ -4,9 +4,34 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: 首页
     url: /
     weight: 10
-  - name: Documentation
-    url: docs/
-    weight: 20
+
+#  - name: Documentation
+#    url: docs/
+#    weight: 20
+
+#  - name: 前端开发
+#    url: notes/front-end/
+#    weight: 20
+#  - name: HTML
+#    PageRef: notes/front-end/html/_index.md
+#    weight: 20
+#    parent: 前端开发
+#  - name: CSS
+#    PageRef: notes/front-end/css/_index.md
+#    weight: 20
+#    parent: 前端开发
+
+#  - name: 后端开发
+#    url: back-end/_index.md
+#    weight: 20
+#  - name: Golang
+#    PageRef: back-end/golang/_index.md
+#    weight: 20
+#    parent: 后端开发
+#  - name: Rust
+#   PageRef: back-end/rust/_index.md
+#    weight: 20
+#    parent: 后端开发

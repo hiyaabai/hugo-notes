@@ -2,7 +2,7 @@
 widget: hero
 headless: true
 weight: 10
-title: Project Docs Template
+title: 转码学习笔记
 hero_media: book.svg
 design:
   background:
@@ -10,13 +10,13 @@ design:
     gradient_end: '#2b94c3'
     text_color_light: true
 cta:
-  url: docs/
-  label: Get Started
+  url: notes/
+  label: 浏览笔记
   icon_pack: fas
-  icon: download
+  icon: book
 cta_alt:
-  url: docs/
-  label: View Documentation
+  url: notes/
+  label: 点击浏览
 cta_note:
   label: >-
     <span class="js-github-release" data-repo="wowchemy/wowchemy-hugo-themes">
@@ -24,8 +24,10 @@ cta_note:
     </span>
 ---
 
-Published with the [Wowchemy Website Builder](https://wowchemy.com/) for Hugo.
+> Linus Torvalds: “Talk is cheap. Show me the code.”
 
-Write something interesting about your project here.
+<br>
 
+<!---
 <a class="github-button" href="https://github.com/wowchemy/wowchemy-hugo-themes" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star Wowchemy Website Builder for Hugo">Star Wowchemy Website Builder for Hugo</a><br><a class="github-button" href="https://github.com/wowchemy/hugo-documentation-theme" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star the Project Docs template">Star the Hugo Documentation Theme</a><script async defer src="https://buttons.github.io/buttons.js"></script>
+--->

@@ -2,19 +2,19 @@
 widget: featurette
 headless: true
 weight: 20
-title: Features
-subtitle: Document _anything_ ✨
+title: 目的
+subtitle: 记录学习过程中的点点滴滴 ✨
 feature:
   - icon: book-open
     icon_pack: fas
-    name: Project Documentation
-    description: For users
+    name: 学习记录
+    description: 积累
   - icon: question
     icon_pack: fas
-    name: Knowledge Base
-    description: For teams
+    name: 经验总结
+    description: 反思
   - icon: list-alt
     icon_pack: fas
-    name: Personal Notebook
-    description: For yourself
+    name: 持续输出
+    description: 提升
 ---
